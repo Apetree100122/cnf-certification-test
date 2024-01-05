@@ -7,7 +7,7 @@
 [![red hat](https://img.shields.io/badge/red%20hat---?color=gray&logo=redhat&logoColor=red&style=flat)](https://www.redhat.com)
 [![openshift](https://img.shields.io/badge/openshift---?color=gray&logo=redhatopenshift&logoColor=red&style=flat)](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 [![license](https://img.shields.io/github/license/test-network-function/cnf-certification-test?color=blue&labelColor=gray&logo=apache&logoColor=lightgray&style=flat)](https://github.com/test-network-function/cnf-certification-test/blob/main/LICENSE)
-
+[![doc-publish](https://github.com/Apetree100122/cnf-certification-test/actions/workflows/doc-publish.yml/badge.svg)](https://github.com/Apetree100122/cnf-certification-test/actions/workflows/doc-publish.yml)
 ## Objective
 
 To provide a set of test cases for the Containerized Network Functions/Cloud
